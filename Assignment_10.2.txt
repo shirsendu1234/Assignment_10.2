@@ -1,0 +1,13 @@
+5. Problem Statement
+1. Use the below given data set
+Data Set
+2. Perform the below given activities:
+a. Create classification model using different random forest models
+b. Verify model goodness of fit
+c. Apply all the model validation techniques
+d. Make conclusions
+e. Plot importance of variables
+
+
+=================================
+data set is not ts
